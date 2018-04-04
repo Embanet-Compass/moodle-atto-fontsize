@@ -1,0 +1,9 @@
+{
+    "name": "embanet-compass/moodle-atto-fontsize",
+    "type": "moodle-atto",
+    "description": "Atto Font Size Plugin",
+    "extra": {
+        "installer-name": "fontsize",
+        "moodle": { "package_folder_name" : "fontsize" }
+    }
+}
